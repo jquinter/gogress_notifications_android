@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gogress Notifications</string>
+
+    <string name="title_notification">Gogress Notification Service</string>
+    <string name="ticker_notification">Gogress Notification Service</string>
+    <string name="message_notification">If you don\'t see action buttons below, swype down with 2 fingers on me</string>
+    <string name="message_notification_manual">Tap to load settings</string>
+
+    <string name="ingress_process_name">com.nianticproject.ingress</string>
+
+</resources>
